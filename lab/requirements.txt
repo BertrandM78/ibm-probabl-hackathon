@@ -1,0 +1,8 @@
+numpy
+pandas
+scipy
+scikit-learn>=1.6
+lightgbm
+statsmodels
+matplotlib
+torch
